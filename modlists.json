@@ -1,6 +1,5 @@
 [
   {
-    "$type": "ModListMetadata, Wabbajack.Lib",
     "title": "The Midnight Ride",
     "description": "The Midnight Ride is a modlist for Fallout 4 that will give you a perfectly stable, smooth and enjoyable experience.",
     "author": "Ungeziefi",
@@ -8,6 +7,7 @@
       "github/Ungeziefi"
     ],
     "game": "fallout4",
+    "official": false,
     "tags": [
       "Stability",
       "Performance",
@@ -16,26 +16,28 @@
       "Vanilla Plus"
     ],
     "nsfw": false,
+    "utility_list": false,
     "image_contains_title": true,
+    "DisplayVersionOnlyInInstallerView": false,
     "force_down": false,
     "links": {
-      "$type": "Links, Wabbajack.Lib",
       "image": "https://raw.githubusercontent.com/Ungeziefi/TMR-Wabbajack/main/Image.png",
       "readme": "https://themidnightride.moddinglinked.com/wabbajack.html",
-      "download": "https://authored-files.wabbajack.org/Halgaris Helper.wabbajack_29d245c9-5f7f-4394-b600-a22e43427337",
+      "download": "https://authored-files.wabbajack.org/The Midnight Ride.wabbajack_7438ab12-9a22-45be-9358-d2ae8de87ec4",
       "machineURL": "TheMidnightRide",
       "discordURL": "https://discord.gg/S99Ary5eba"
     },
     "download_metadata": {
-      "$type": "DownloadMetadata, Wabbajack.Lib",
-      "Hash": "e1+K7eJbDJw=",
-      "Size": 0,
-      "NumberOfArchives": 14,
-      "SizeOfArchives": 135206078,
-      "NumberOfInstalledFiles": 1311,
-      "SizeOfInstalledFiles": 336453775
+      "Hash": "0Eza8QMcZ9A=",
+      "Size": 4099279,
+      "NumberOfArchives": 122,
+      "SizeOfArchives": 8630970042,
+      "NumberOfInstalledFiles": 6848,
+      "SizeOfInstalledFiles": 10431213953
     },
-    "version": "13.9.24"
+    "version": "13.9.24",
+    "dateCreated": "1970-01-01T00:00:00Z",
+    "dateUpdated": "2024-09-12T20:09:45.0165555Z",
+    "repositoryName": ""
   }
 ]
-
