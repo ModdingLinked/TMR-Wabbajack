@@ -1,0 +1,41 @@
+[
+  {
+    "$type": "ModListMetadata, Wabbajack.Lib",
+    "title": "The Midnight Ride",
+    "description": "The Midnight Ride is a modlist for Fallout New Vegas that will give you a perfectly stable, smooth and enjoyable experience.",
+    "author": "Ungeziefi",
+    "maintainers": [
+      "github/Ungeziefi"
+    ],
+    "game": "fallout4",
+    "tags": [
+      "Stability",
+      "Performance",
+      "Customizability",
+      "Gameplay",
+      "Vanilla Plus"
+    ],
+    "nsfw": false,
+    "image_contains_title": true,
+    "force_down": false,
+    "links": {
+      "$type": "Links, Wabbajack.Lib",
+      "image": "https://raw.githubusercontent.com/Ungeziefi/TMR-Wabbajack/main/Image.png",
+      "readme": "https://themidnightride.moddinglinked.com/wabbajack.html",
+      "download": "https://authored-files.wabbajack.org/Halgaris Helper.wabbajack_29d245c9-5f7f-4394-b600-a22e43427337",
+      "machineURL": "TheMidnightRide",
+      "discordURL": "https://discord.gg/S99Ary5eba"
+    },
+    "download_metadata": {
+      "$type": "DownloadMetadata, Wabbajack.Lib",
+      "Hash": "e1+K7eJbDJw=",
+      "Size": 0,
+      "NumberOfArchives": 14,
+      "SizeOfArchives": 135206078,
+      "NumberOfInstalledFiles": 1311,
+      "SizeOfInstalledFiles": 336453775
+    },
+    "version": "13.9.24"
+  }
+]
+
