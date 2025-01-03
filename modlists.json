@@ -4,7 +4,8 @@
     "description": "The Midnight Ride is a modlist for Fallout 4 that will give you a perfectly stable, smooth and enjoyable experience.",
     "author": "Ungeziefi",
     "maintainers": [
-      "github/Ungeziefi"
+      "github/Ungeziefi",
+      "github/WallSoGB"
     ],
     "game": "fallout4",
     "official": false,
