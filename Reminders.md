@@ -17,6 +17,7 @@
 - If you used any new executable, make sure to remove them from the bottom of ModOrganizer.ini.
 - Make sure the load order is correct, MO2 likes to push non-ESM plugins near the top further up sometimes.
 - Take the load order file for upload to the guide's resources page on Nexus, don't forget to add any missing plugins to the file itself. Currently there are none for TMR.
+- Remove the logs and configuration file from Bethini Pie's folder.
 
 ### During upload
 - Update the version to dd.mm.yy.
