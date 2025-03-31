@@ -24,21 +24,21 @@
     "links": {
       "image": "https://raw.githubusercontent.com/Ungeziefi/TMR-Wabbajack/main/Image.png",
       "readme": "https://themidnightride.moddinglinked.com/wabbajack.html",
-      "download": "https://authored-files.wabbajack.org/The Midnight Ride.wabbajack_41344f15-9ae6-4f49-822b-a412bfa12a8b",
+      "download": "https://authored-files.wabbajack.org/Wabbajack_a62623b0-e559-41de-9b44-ddbb41c19003",
       "machineURL": "TheMidnightRide",
       "discordURL": "https://discord.gg/S99Ary5eba"
     },
     "download_metadata": {
-      "Hash": "xNF+PKpkPdc=",
-      "Size": 4286164,
-      "NumberOfArchives": 122,
-      "SizeOfArchives": 8712273970,
-      "NumberOfInstalledFiles": 11694,
-      "SizeOfInstalledFiles": 10589685162
+      "Hash": "N+XtlNzzHXI=",
+      "Size": 4244606,
+      "NumberOfArchives": 112,
+      "SizeOfArchives": 6099790905,
+      "NumberOfInstalledFiles": 11670,
+      "SizeOfInstalledFiles": 8025829943
     },
-    "version": "20.12.24",
+    "version": "31.3.25",
     "dateCreated": "1970-01-01T00:00:00Z",
-    "dateUpdated": "2024-12-20T13:37:42.8721128Z",
+    "dateUpdated": "2025-03-31T21:17:58.9303459Z",
     "repositoryName": ""
   }
 ]
