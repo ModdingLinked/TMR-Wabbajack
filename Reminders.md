@@ -22,5 +22,4 @@
 ### During upload
 - Update the version to dd.mm.yy.
 - Update the author to ModdingLinked for the first new upload after moving repos.
-- Remove all Modgroups from the included files, then batch add them by filtering the extension in Explorer.
 - Preferably make a test version with the upload option unchecked at first, then upload once it's confirmed to be working and that all the previous notes have been followed.
