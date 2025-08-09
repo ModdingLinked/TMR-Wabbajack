@@ -22,7 +22,7 @@
     "DisplayVersionOnlyInInstallerView": false,
     "force_down": false,
     "links": {
-      "image": "https://raw.githubusercontent.com/ModdingLinked/TMR-Wabbajack/refs/heads/main/Image.webp",
+      "image": "https://raw.githubusercontent.com/ModdingLinked/TMR-Wabbajack/main/Image.webp",
       "readme": "https://themidnightride.moddinglinked.com/wabbajack.html",
       "download": "https://authored-files.wabbajack.org/The Midnight Ride.wabbajack_ee89fc95-01f2-4e62-82fe-8c0bab934e76",
       "machineURL": "TheMidnightRide",
@@ -45,3 +45,4 @@
   }
 
 ]
+
